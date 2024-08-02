@@ -1,0 +1,17 @@
+D:\.NET lessons\2-month\net_018_exam_project\HomeCleaning\HomeCleaning\obj\Debug\net8.0\HomeCleaning.csproj.AssemblyReference.cache
+D:\.NET lessons\2-month\net_018_exam_project\HomeCleaning\HomeCleaning\obj\Debug\net8.0\HomeCleaning.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET lessons\2-month\net_018_exam_project\HomeCleaning\HomeCleaning\obj\Debug\net8.0\HomeCleaning.AssemblyInfoInputs.cache
+D:\.NET lessons\2-month\net_018_exam_project\HomeCleaning\HomeCleaning\obj\Debug\net8.0\HomeCleaning.AssemblyInfo.cs
+D:\.NET lessons\2-month\net_018_exam_project\HomeCleaning\HomeCleaning\obj\Debug\net8.0\HomeCleaning.csproj.CoreCompileInputs.cache
+D:\.NET lessons\2-month\net_018_exam_project\HomeCleaning\HomeCleaning\bin\Debug\net8.0\HomeCleaning.exe
+D:\.NET lessons\2-month\net_018_exam_project\HomeCleaning\HomeCleaning\bin\Debug\net8.0\HomeCleaning.deps.json
+D:\.NET lessons\2-month\net_018_exam_project\HomeCleaning\HomeCleaning\bin\Debug\net8.0\HomeCleaning.runtimeconfig.json
+D:\.NET lessons\2-month\net_018_exam_project\HomeCleaning\HomeCleaning\bin\Debug\net8.0\HomeCleaning.dll
+D:\.NET lessons\2-month\net_018_exam_project\HomeCleaning\HomeCleaning\bin\Debug\net8.0\HomeCleaning.pdb
+D:\.NET lessons\2-month\net_018_exam_project\HomeCleaning\HomeCleaning\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\.NET lessons\2-month\net_018_exam_project\HomeCleaning\HomeCleaning\obj\Debug\net8.0\HomeClea.0E27C053.Up2Date
+D:\.NET lessons\2-month\net_018_exam_project\HomeCleaning\HomeCleaning\obj\Debug\net8.0\HomeCleaning.dll
+D:\.NET lessons\2-month\net_018_exam_project\HomeCleaning\HomeCleaning\obj\Debug\net8.0\refint\HomeCleaning.dll
+D:\.NET lessons\2-month\net_018_exam_project\HomeCleaning\HomeCleaning\obj\Debug\net8.0\HomeCleaning.pdb
+D:\.NET lessons\2-month\net_018_exam_project\HomeCleaning\HomeCleaning\obj\Debug\net8.0\HomeCleaning.genruntimeconfig.cache
+D:\.NET lessons\2-month\net_018_exam_project\HomeCleaning\HomeCleaning\obj\Debug\net8.0\ref\HomeCleaning.dll

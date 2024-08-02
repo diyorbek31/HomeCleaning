@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "House Cleaning",
+    "Description": "General house cleaning service including dusting, vacuuming, and mopping.",
+    "Id": 1,
+    "CreatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "Name": "Window Cleaning",
+    "Description": "Professional window cleaning service for all types of windows.",
+    "Id": 2,
+    "CreatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "Name": "Carpet Cleaning",
+    "Description": "Deep cleaning service for all types of carpets and rugs.",
+    "Id": 3,
+    "CreatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "Name": "Gardening",
+    "Description": "Plumb new tree, fruits, look all trees",
+    "Id": 4,
+    "CreatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "Name": "Car wash",
+    "Description": "washing the cars, buses, others transports",
+    "Id": 5,
+    "CreatedAt": "0001-01-01T00:00:00"
+  }
+]

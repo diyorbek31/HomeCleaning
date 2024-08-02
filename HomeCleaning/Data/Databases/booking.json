@@ -1,0 +1,18 @@
+[
+  {
+    "UserEmail": "31diyor@gmail.com",
+    "Service": "Window Cleaning",
+    "Provider": "Clean & Shine",
+    "Time": "5.00 am - 7.00pm",
+    "Id": 1,
+    "CreatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "UserEmail": "31diyorek",
+    "Service": "w21",
+    "Provider": "131",
+    "Time": "313",
+    "Id": 2,
+    "CreatedAt": "0001-01-01T00:00:00"
+  }
+]

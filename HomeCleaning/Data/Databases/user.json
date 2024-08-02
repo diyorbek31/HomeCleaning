@@ -1,0 +1,37 @@
+[
+  {
+    "Name": "Diyorbek",
+    "Email": "31diyor@gmail.com",
+    "Password": "312142jq",
+    "Id": 1,
+    "CreatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "Name": "Nozimjon",
+    "Email": "usmonaliyev0749@gmail.com",
+    "Password": "dkelbw231",
+    "Id": 2,
+    "CreatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "Name": "Omina",
+    "Email": "bahodirova07@gailda",
+    "Password": "312341d",
+    "Id": 3,
+    "CreatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "Name": "Umidjon",
+    "Email": "umid32",
+    "Password": "13231",
+    "Id": 4,
+    "CreatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "Name": "Asadbek",
+    "Email": "asad43",
+    "Password": "23121",
+    "Id": 5,
+    "CreatedAt": "0001-01-01T00:00:00"
+  }
+]

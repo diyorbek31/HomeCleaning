@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "Clean & Shine",
+    "Service": "House Cleaning",
+    "AvailableTime": "9:00 AM - 5:00 PM",
+    "Price": 55.00,
+    "Id": 1,
+    "CreatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "Name": "Sparkle Windows",
+    "Service": "Window Cleaning",
+    "AvailableTime": "8:00 AM - 4:00 PM",
+    "Price": 75.00,
+    "Id": 2,
+    "CreatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "Name": "Fresh Carpets",
+    "Service": "Carpet Cleaning",
+    "AvailableTime": "10:00 AM - 6:00 PM",
+    "Price": 100.00,
+    "Id": 3,
+    "CreatedAt": "0001-01-01T00:00:00"
+  }
+]
